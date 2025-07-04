@@ -31,7 +31,7 @@ The system processes live parking lot data and uses predictive logic to optimize
 
 Below is the high-level system architecture diagram.
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](architecture.png)
 
 A detailed explanation is available in [`architecture.md`](architecture.md).
 
